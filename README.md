@@ -4,7 +4,7 @@
 
 [Value Object](http://martinfowler.com/bliki/ValueObject.html) that represents a [monetary value using a currency's smallest unit](http://martinfowler.com/eaaCatalog/money.html).
 
-## Installation
+## Installation 
 
 Simply add a dependency on `sebastian/money` to your project's `composer.json` file if you use [Composer](http://getcomposer.org/) to manage the dependencies of your project.
 
